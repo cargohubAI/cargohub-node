@@ -1,0 +1,22 @@
+{
+  "name": "cargohub",
+  "version": "1.0.0",
+  "description": "Node library for cargohub API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cargohubAI/cargohub-node.git"
+  },
+  "keywords": [
+    "cargohub"
+  ],
+  "author": "Cargohub",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cargohubAI/cargohub-node/issues"
+  },
+  "homepage": "https://github.com/cargohubAI/cargohub-node#readme"
+}
